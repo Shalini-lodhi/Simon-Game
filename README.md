@@ -77,4 +77,3 @@ e.g. If the user has pressed  **red, green, red, yellow,**  the index of the las
 - HTML file: [index.html](https://github.com/Shalini-lodhi/Simon-Game/blob/main/index.html "index.html")
 - CSS File: [styles.css](https://github.com/Shalini-lodhi/Simon-Game/blob/main/styles.css "styles.css")
 - JavaScript File: [game.js](https://github.com/Shalini-lodhi/Simon-Game/blob/main/game.js "game.js")
-- 
